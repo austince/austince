@@ -1,5 +1,9 @@
 ### Ummm... hello! 👋
 
+- 🔭 I work [@Ververica](https://github.com/ververica/).  
+- 🐻 I help maintain [@kumahq](https://github.com/kumahq/).
+- 💬 I like questions, and answers, and ideas, and comments, and feedback. Reach out :) 
+
 <!--
 **austince/austince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
