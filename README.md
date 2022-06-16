@@ -1,7 +1,7 @@
 ### Ummm... hello! 👋
 
-- 🔭 I work [@Ververica](https://github.com/ververica/).  
-- 🐻 I help maintain [@kumahq](https://github.com/kumahq/).
+- 🔭 I'm working on something new, previously at [@Ververica](https://github.com/ververica/), [@FinTechStudios](https://github.com/fintechstudios).  
+- 🐻 Prev. maintainer of [@kumahq](https://github.com/kumahq/).
 - 💬 I like questions, and answers, and ideas, and comments, and feedback. Reach out :) 
 
 <!--
