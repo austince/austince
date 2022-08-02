@@ -1,6 +1,6 @@
 ### Ummm... hello! 👋
 
-- 🔭 I'm working on something new, previously at [@Ververica](https://github.com/ververica/), [@FinTechStudios](https://github.com/fintechstudios).  
+- 🔭 I'm working on the fully managed Apache Flink cloud @immerok.  
 - 🐻 Prev. maintainer of [@kumahq](https://github.com/kumahq/).
 - 💬 I like questions, and answers, and ideas, and comments, and feedback. Reach out :) 
 
