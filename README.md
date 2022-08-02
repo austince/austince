@@ -1,6 +1,6 @@
 ### Ummm... hello! 👋
 
-- 🔭 I'm working on the fully managed Apache Flink cloud @immerok.  
+- 🔭 I'm working on the fully managed Apache Flink cloud [@immerok](https://github.com/immerok).  
 - 🐻 Prev. maintainer of [@kumahq](https://github.com/kumahq/).
 - 💬 I like questions, and answers, and ideas, and comments, and feedback. Reach out :) 
 
